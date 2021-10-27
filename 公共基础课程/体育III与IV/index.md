@@ -2,7 +2,7 @@
 
 教师：
 
-贡献者：[北屿](https://github.com/beiyuouo/)、[鲲主]
+贡献者：[北屿](https://github.com/beiyuouo/)、鲲主
 
 ## 课程信息
 
