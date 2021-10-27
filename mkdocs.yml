@@ -16,3 +16,8 @@ plugins:
       lang:
         - en
         - ja
+
+extra:
+  analytics:
+    provider: google
+    property: UA-145083103-1
