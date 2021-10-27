@@ -4,7 +4,7 @@
 import os
 from urllib.parse import quote
 
-EXCLUDE_DIRS = ['.git', 'docs', '.vscode', 'overrides', '.github']
+EXCLUDE_DIRS = ['.git', 'docs', '.vscode', 'overrides', '.github', 'script']
 README_MD = ['README.md', 'readme.md', 'index.md']
 
 TXT_EXTS = ['md', 'txt']
@@ -44,7 +44,6 @@ def generate_md(course: str, filelist_texts: str, readme_path: str, topic: str):
         os.mkdir(topic_path)
     with open(os.path.join(topic_path, '{}.md'.format(course)), 'wb') as file:
         file.writelines(final_texts)
-        
 
 
 if __name__ == '__main__':
