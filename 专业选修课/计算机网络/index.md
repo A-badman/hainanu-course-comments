@@ -2,7 +2,7 @@
 
 教师：张春元
 
-贡献者：[BeiYu](https://github.com/beiyuouo/)
+贡献者：[北屿](https://github.com/beiyuouo/)
 
 ## 课程信息
 
