@@ -31,6 +31,8 @@ Issue、PR、纠错、资料、攻略、评论，各种欢迎！
 
 来自大家的关注、维护和贡献，才是让这个项目质量越来越好的动力~
 
+详细的贡献指南请移步[使用指南](https://www.bj-yan.top/hainanu-course-comments/0.资源导航/1.使用指南/)
+
 > 注：为了方便起见，课程评价可以直接写在评论区，相关资源请提pr~
 
 > 另外，如果你使用[GitHub](https://github.com)不是很熟练，也可以发送邮件联系维护者贡献内容 Email: [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com) （如果希望加入贡献者，请留下昵称和Email）
