@@ -8,6 +8,8 @@
 
 > *只要是前人走过的弯路，后人就不必再走。*
 
+既然来了，就去给[仓库](https://github.com/beiyuouo/hainanu-course-comments)点一个小星星吧！顺便分享给自己的朋友，万一复习期间用得到呢！
+
 ## 特性
 
 - 根目录下的`template.md`提供的模板方便使用
