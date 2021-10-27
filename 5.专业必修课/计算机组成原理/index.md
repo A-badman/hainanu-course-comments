@@ -2,7 +2,7 @@
 
 教师：
 
-贡献者：
+贡献者：[visions](https://github.com/visions-ma)、[北屿](https://github.com/beiyuouo)
 
 ## 课程信息
 
